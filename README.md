@@ -4,7 +4,7 @@
 I am Qudus Musiliu, a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-qudus4all-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qudus4all/)](https://www.linkedin.com/in/qudus4all/)
-[![Instagram Badge](https://img.shields.io/badge/-qudus4all-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/qudus4all/)](https://instagram.com/qudus4all)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/qudus4all)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
