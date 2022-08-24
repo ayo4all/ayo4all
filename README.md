@@ -20,6 +20,5 @@ I am Qudus Musiliu, a tech enthusiast & an open-source advocate. I am always ope
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeem-Treef&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeem-Treef&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeem-Treef&count_private=true&show_icons=true&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeem-Treef&hide=TeX&layout=compact)
 
