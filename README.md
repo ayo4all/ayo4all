@@ -8,9 +8,6 @@ I am Qudus Musiliu, a tech enthusiast & an open-source advocate. I am always ope
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AdeemTreef)
 
 
-<p align="left"> <img src="https://github.com/Adeem-Treef/ghpvc/?username=adeem-treef&label=Profile%20views&color=0e75b6&style=flat" alt="adeemtreef" /> </p>
-
-<p align="left"> <a href="https://github.com/Adeem-Treef/"><img src="https://github-profile-trophy.vercel.app/?username=adeem-treef" alt="adeemtreef" /></a> </p>
 
 
 
@@ -27,3 +24,4 @@ I am Qudus Musiliu, a tech enthusiast & an open-source advocate. I am always ope
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeem-Treef&count_private=true&show_icons=true&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeem-Treef&hide=TeX&layout=compact)
 
+<p align="left"> <a href="https://github.com/Adeem-Treef/"><img src="https://github-profile-trophy.vercel.app/?username=adeem-treef" alt="adeemtreef" /></a> </p>
