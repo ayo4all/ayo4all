@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=adeem-treef&color=green)
+
 
 I am Qudus Musiliu, a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
 
