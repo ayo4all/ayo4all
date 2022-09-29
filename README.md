@@ -1,31 +1,51 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Qudus Musiliu
+======================================================================================================================================
 
-![](https://komarev.com/ghpvc/?username=adeem-treef&color=green)
+Frontend-Web developer
+-------------
+
+I am learning and documenting my journey with projects while I learn
+
+* 🌍  I'm based in Nigeria
+* 🖥️  See my portfolio at [portfolio](https://adeem-treef.netlify.app/)
+* ✉️  You can contact me at [quduusayo4real@gmail.com](mailto:quduusayo4real@gmail.com)
+* 🚀  I'm currently working on [SendNaa](https://sendnaa1.netlify.app/)
+* 🧠  I'm currently learning Next.js
+* 🤝  I'm open to collaborating on web development projects
+
+<a href="https://www.twitter.com/AdeemTreef" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Adeem-Treef?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/adeem-treef" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/adeem-treef?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+</p>
 
 
-I am Qudus Musiliu, a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
+### Socials
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qudus4all/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/qudus4all)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AdeemTreef)
+<p align="left"> <a href="http://www.instagram.com/qudus4all" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 
+<a href="https://www.linkedin.com/in/qudus4all" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 
+<a href="https://www.twitter.com/AdeemTreef" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+</a>
 
+</p>
 
+### Badges
 
-## ⚡ Technologies
+<b>My GitHub Stats</b>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<a href="http://www.github.com/adeem-treef"><img src="https://github-readme-stats.vercel.app/api?username=adeem-treef&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Adeem's GitHub stats" /></a>
 
+<a href="http://www.github.com/adeem-treef"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adeem-treef&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeem-Treef&count_private=true&show_icons=true&include_all_commits=true) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeem-Treef&hide=TeX&layout=compact)
+<a href="https://github.com/adeem-treef" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeemtreef&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
