@@ -14,7 +14,7 @@ I am learning and documenting my journey with projects while I learn
 * 🤝  I'm open to collaborating on web development projects
 
 <a href="https://www.twitter.com/AdeemTreef" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Adeem-Treef?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/AdeemTreef?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/adeem-treef" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/adeem-treef?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
