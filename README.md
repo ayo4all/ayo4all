@@ -7,7 +7,7 @@ Frontend-Web developer
 I am learning and documenting my journey with projects while I learn
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [portfolio](https://adeem-treef.netlify.app/)
+* 🖥️  See my portfolio at [portfolio](live)
 * ✉️  You can contact me at [quduusayo4real@gmail.com](mailto:quduusayo4real@gmail.com)
 * 🚀  I'm currently working on [SendNaa](https://sendnaa1.netlify.app/)
 * 🧠  I'm currently learning Next.js
